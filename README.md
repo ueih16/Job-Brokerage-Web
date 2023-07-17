@@ -38,10 +38,3 @@ C. Ứng viên
 | Trình tự xử lý | |
 | Đầu ra | Đúng: Hiển thị trang người dùng và thông báo thành công<br>Sai: Hiển thị trang đăng nhập và thông báo thất bại |
 | Lưu ý | Kiểm tra ô nhập không được để trống bằng JavaScript |
-
-
-## License
-
-MIT
-
-**Free Software, Hell Yeah!**
